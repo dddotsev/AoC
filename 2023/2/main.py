@@ -1,5 +1,6 @@
-import numpy as np
 import functools as ft
+
+import numpy as np
 
 RED = 'red'
 GREEN = 'green'
