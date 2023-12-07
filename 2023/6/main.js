@@ -1,5 +1,3 @@
-// DISCLAIMER: The code works. The code is shit. Will fix.
-
 import fs from 'fs';
 
 const main = () => {
