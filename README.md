@@ -1,5 +1,5 @@
-Some bodged solutions to the AoC challenge. Written in JavaScript, Rust (not yet) and other languages in the future.
+Some bodged solutions to the AoC challenge. Written in JavaScript, Go, C#, Python, Rust (not yet) and other languages in the future.
 
-[text](https://adventofcode.com/)
+[https://adventofcode.com/](https://adventofcode.com/)
 
-Don't judge me!
+Don't judge me on these!
