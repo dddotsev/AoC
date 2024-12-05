@@ -3,3 +3,5 @@ Some bodged solutions to the AoC challenge. Written in JavaScript, Go, C#, Pytho
 [https://adventofcode.com/](https://adventofcode.com/)
 
 Don't judge me on these!
+
+Striving to one day solve every day with different language.
