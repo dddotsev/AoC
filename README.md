@@ -4,4 +4,4 @@ Some bodged solutions to the AoC challenge. Written in JavaScript, Go, C#, Pytho
 
 Don't judge me on these!
 
-Striving to one day solve every day with different language.
+Striving to one day solve every puzzle in the calendar with a different language.
